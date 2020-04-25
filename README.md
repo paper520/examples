@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/npm/v/image2d.svg)](https://www.npmjs.com/package/image2d)
 [![License](https://img.shields.io/npm/l/image2d.svg)](https://github.com/yelloxing/image2D/blob/master/LICENSE)
 
-> 欢迎大家贡献例子代码，有任何疑惑都可以及时提[issue](https://github.com/image2D/examples/issues)！
+> 欢迎大家贡献例子代码，有任何疑惑都可以及时提[issue](https://github.com/yelloxing/image2D/issues)！
 
 如何启动本地编辑？
 --------------------------------------
