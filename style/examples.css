@@ -38,6 +38,10 @@
   background-image: url(../image/examples/skybox.png);
 }
 
+.examples>li.china-map {
+  background-image: url(../image/examples/china-map.png);
+}
+
 /*
 ----------------------------------------
 例子界面
@@ -112,6 +116,7 @@
   border-radius: .07rem;
   background-position: center center;
   background-size: 100% auto;
+  background-repeat: no-repeat;
 }
 
 .examples>li.more {
